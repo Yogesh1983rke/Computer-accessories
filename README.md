@@ -2,3 +2,4 @@
 Monitor
 CPU
 Keyboard
+Mouse
