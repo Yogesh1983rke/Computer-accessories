@@ -3,3 +3,4 @@ Monitor
 CPU
 Keyboard
 Mouse
+Speaker
