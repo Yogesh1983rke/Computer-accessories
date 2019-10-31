@@ -1,2 +1,3 @@
 # Computer-accessories
 Monitor
+CPU
